@@ -1,6 +1,4 @@
-ifndef::env-editions[]
-:imagesdir: images
-endif::[]
+== About the Author
 
 Your bio starts here...
 
