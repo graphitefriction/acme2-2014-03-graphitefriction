@@ -1,0 +1,35 @@
+= Article Title: Optional Subtitle
+Sarah White <>
+:slug: slugTitle
+ifndef::env-editions[]
+:codedir: code
+:imagesdir: images
+:source-highlighter: coderay
+endif::[]
+
+[abstract]
+--
+Abstract paragraph(s) goes here.
+--
+
+== First Section Title
+
+.Optional title of source code block
+[source,lang]
+----
+include::{codedir}/filename.extension[]
+----
+
+.Title of image or figure
+image::filename.extension[]
+
+include::bio.adoc[]
+
+////
+This comment block contains links to NFJS and Asciidoctor resources.
+You can delete this block at any time.
+
+* Review the NFJS Author Guide for article style conventions and AsciiDoc syntax usage.
+* The model article shows the common syntax in use.
+* Finally, you can checkout the Asciidoctor Quick Reference or User Manual for additional simple and complex syntax examples.
+////

@@ -1,0 +1,50 @@
+= Author Welcome Letter
+
+Values Needed:
+
+* author name - Sarah White
+* author email - 
+* repository name - acme2-2014-03-graphitefriction
+* repository description - Sarah White's March 2014 article for ACME, the Magazine
+* repository url - https://github.com/acme-magazine-02/acme2-2014-03-graphitefriction
+* edition month - 2014-03
+* draft deadline - March 15, 2014
+* editor name - 
+* editor email - 
+* article title - 
+* author guide url - 
+* model article url - 
+* resource url - 
+
+Welcome text
+
+== Key Dates
+
+> Due date for drafts (meaning you've pushed to your GitHub repo) will be the 15th of the previous month.
+
+First draft deadline
+Edit start
+Publication date
+
+== Edit Process
+
+What to expect and how to respond
+
+== Article Repository
+
+What documents and assets should be put where
+
+=== Article Template
+
+What it includes that shouldn't be messed with
+
+=== Style Guide
+
+Why you should review it
+What you'll find in it
+How to preview your article
+Additional syntax help
+
+== Help
+
+Final words and thoughts

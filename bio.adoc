@@ -1,0 +1,19 @@
+ifndef::env-editions[]
+:imagesdir: images
+endif::[]
+
+Your bio starts here...
+
+////
+Tell your audience about yourself.
+Feel free to include links to your company, social media, presentations or whatever is relevant to the audience of your article.
+Your biography can be 1 - 2 paragraphs.
+
+Do not include:
+
+* a document title or section titles
+* a document header
+
+If you would like to include a headshot beside your bio, make sure to upload it to the images directory in your article repository.
+Name the file headshot.jpg.
+////
